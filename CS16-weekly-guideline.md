@@ -30,7 +30,6 @@ You will also summarize the overall performance of your mentees based on observa
   * ? is a flag used by moderators to raise a **question** for the TA to investigate further
 * Poss: Possible Points
 * Pts: Points Awarded (only filled in by TA or Instructor, NOT by moderator)
-```
 
 # lab01 feedback: code review of repo on github
 
@@ -60,7 +59,6 @@ In the student feedback repo on github, under the section for lab01 paste the fo
 | FUN  |       | Made appropriate use of function calls in min4.cpp   |
 | STY  |       | coding style good  |
 | INS  |       | followed instructions   |
-
 
 ```
 
@@ -94,7 +92,8 @@ Include any other general feedback or comments
 
 ## Step 5: Mid quarter report
 
-Paste the following at the end of the feedback repo. Identify areas that are going well and areas that need improvement, offer suggestions
+Paste the following at the end of the feedback repo. 
+Identify areas that are going well and areas that need improvement, offer suggestions
 
 ```
 ## Feedback on overall performance

@@ -31,7 +31,6 @@ You will also summarize the overall performance of your mentees based on observa
   * ? is a flag used by moderators to raise a **question** for the TA to investigate further
 * Poss: Possible Points
 * Pts: Points Awarded (only filled in by TA or Instructor, NOT by moderator)
-```
 
 # pa01 feedback: code review of repo on github
 
@@ -90,6 +89,7 @@ Paste the following at the end of the feedback repo
 * For STY: code is readable, well indented, good choice of variable names
 
 ```
+
 Include any other general feedback or comments
 
 
