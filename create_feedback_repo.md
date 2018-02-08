@@ -32,7 +32,8 @@ To create these repos:
 
 # What do you do in these repos?
 
-In these feedback repos, you should create the following sections
+In these feedback repos, you should create a file named feedback.md with
+the following sections
 
 At the top, put a top level heading with the names of the students,  the quarter, and some general reference information.
 It will be very handy later to have these links at hand.
