@@ -1,10 +1,11 @@
-# Week 4 (CS16)
+# Week 4 (CS24)
 
-Tasks for this week are due 02/14 (wed) midnight
+Tasks for this week are due 02/14 (wed) midnight. For each of your mentees, fill in their umail in [the feedback status Google sheet](https://docs.google.com/spreadsheets/d/1l-I6d2npbjtzkmI9l5imzuk0osymD5XqC-WJmk8DCA4/edit?usp=sharing) and mark X in column N when your feedback is ready 
 
 This week you will provide feedback on pa01 and lab03 in student feedback repos
 
 You will also summarize the overall performance of your mentees based on observations in lab sections, CS16- final exam, homeworks, github usage and pair programming
+
 
 
 ## Step 1: Create individual/pair feedback repos

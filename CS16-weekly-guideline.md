@@ -1,6 +1,6 @@
 # Week 4 (CS16)
 
-Tasks for this week are due 02/14 (wed) midnight
+Tasks for this week are due 02/14 (wed) midnight. For each of your mentees, fill in their umail in [the feedback status Google sheet](https://docs.google.com/spreadsheets/d/1wTU5OFqzwy01dJWWCWarybeEz_14RNIkKSrbKc0AyxQ/edit?usp=sharing) and mark X in column F when your feedback is ready 
 
 This week you will provide feedback on lab01 and lab02 in student feedback repos
 
@@ -106,9 +106,4 @@ Your performance on the quizzes as been (great)/(satisfactory)/(low). (I am happ
 
 ```
 
-# Week 4 (CS24)
 
-Tasks for this week are due 02/14 (wed) midnight
-
-* Provide detailed feedback on pa01 and lab03
-* Summarize performance in the course so far - hw01, hw02, and CS16 final, pair programming
