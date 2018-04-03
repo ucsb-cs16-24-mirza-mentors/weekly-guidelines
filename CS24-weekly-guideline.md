@@ -18,9 +18,9 @@ Lab release assignments:
 - lab3: JinJin
 - lab4: Jack
 - lab5: Zhiyu
-- lab6: JinJin
-- lab7: Jack -> New lab
-- lab8:
+- lab6: Jack
+- lab7: 
+
 
 - pa01 - Zhiyu
 - pa02  Jin Jin
