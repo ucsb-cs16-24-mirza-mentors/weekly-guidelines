@@ -14,17 +14,17 @@ One TA is responsible for releasing each of the pa/lab assignments. This means e
 
 Lab release assignments:
 
-- lab2:
-- lab3:
-- lab4:
-- lab5:
-- lab6:
-- lab7:
+- lab2: Zhiyu
+- lab3: JinJin
+- lab4: Jack
+- lab5: Zhiyu
+- lab6: JinJin
+- lab7: Jack -> New lab
 - lab8:
 
-- pa01
-- pa02
-- pa03 (checkpoint and actual assignment)
+- pa01 - Zhiyu
+- pa02  Jin Jin
+- pa03 (checkpoint and actual assignment) Jack
 
 ## Preparing for the labs: (due Monday before each lab or pa)
 Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make a submission on gradescope to indicate that you have finished preparing. You may use your own past solution. Report any errors on the labs to the TA in charge for that lab
@@ -33,7 +33,7 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 * Briefly go over what the lab is about and provide any useful pointers based on your experience with completing the labs. 
 * Remind students of the open lab times available that week where they can come to get help. We need to do this until there is a steady flow in the open labs. 
 * Distribute the homeworks and collect them at the end of the lab
-* Take attendance for that lab. 
+* Take attendance for that lab. - figure this out
 * Work with the tutors to ensure that the lab is running smoothly. 
 * Make announcements about common problems students are facing and periodically
 * The 6pm lead TA (Zhiyu) should hand over all the homeworks to our grader Yifu (yifu@umail.ucsb.edu)
@@ -48,13 +48,13 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 
 ## TA grading responsibilities
 
-* HWs - all TAs are expected to help with HW grading. Firt four homeworks - Zhiyu, next four homeworks Jin Jin. TA in charge should create the rubric in gradescope (mainly need to copy these over from last quarter) BEFORE the homework is due. Grading should be done in a week and uploaded to gauchospace by the TA in charge of that homework
+* HWs - all TAs are expected to help with HW grading. First four homeworks - Zhiyu, next four homeworks Jin Jin. TA in charge should create the rubric in gradescope (mainly need to copy these over from last quarter) BEFORE the homework is due. Grading should be done in a week and uploaded to gauchospace by the TA in charge of that homework
 
 * Exams - all TAs and paid tutors must be available to help with exam grading (midterms and final exams). You may not take off early in the finals week. 
 
 - Midterm 1 grading will be on Thursday (04/26) (2p - 5p)
 - Midterm 2 grading will be on Thursday (05/17) (2p - 5p)
-- Final exam grading will be Thursday of finals week 06/14 (10am -3pm)
+- Final exam grading will be Thursday of finals week 06/14 (10am -3pm) - don't take off
 
 ## Feedback on student code due Fridays 
 * You must track the progress of your mentees on github on a weekly basis and provide informal feedback in labs
@@ -69,13 +69,13 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 
 ## TO DO's related to logistic
 
-1. TA to create a list of pair programming partners and mentor groups using the lab00 student responses, publish on the course website using a template similar to [https://ucsb-cs16-w18.github.io/info/mentor_groups/](https://ucsb-cs16-w18.github.io/info/mentor_groups/)
+1. TA to create a list of pair programming partners and mentor groups using the lab00 student responses, publish on the course website using a template similar to [https://ucsb-cs16-w18.github.io/info/mentor_groups/](https://ucsb-cs16-w18.github.io/info/mentor_groups/) : Jin Jin
 
-2. TA to add all the staff to our class org on github
-3. Finalize times for exam grading (midterm 1, 2 and final exam)
+2. TA to add all the staff to our class org on github - zhiyu
+3. 
 4. Reader to print homeworks and bring them to the first section on Tuesdays, collect scan and upload homeworks to gradescope on a weekly basis.
-5. Need a TA in charge of uploading grades to gauchospace on a regular basis
-6. Finalize open lab schedule and publish to website [http://bit.ly/2GtodZM](http://bit.ly/2GtodZM)
+5. Need a TA in charge of uploading grades to gauchospace on a regular basis: ta in charge of the lab
+6. Finalize open lab schedule and publish to website [http://bit.ly/2GtodZM](http://bit.ly/2GtodZM) starting next week: Jack
 
 ## TO DO's related to content 
 
