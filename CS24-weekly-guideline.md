@@ -1,3 +1,40 @@
+# Week 1 
+
+* Review TA and tutor duties
+
+1. Everyone MUST read the labs for the upcoming week prior to Tuesday. You must actually do the lab and make a submission to gradescope. Okay to use your own past solutions. Report any errors on the labs to the TA in charge for that lab
+
+* TA lab release assignments
+- lab2:
+- lab3:
+- lab4:
+- lab5:
+- lab6:
+- lab7:
+- lab8:
+
+* TA grading responsibilities
+
+
+
+* TO DO's related to logistics
+1. TA to create a list of pair programming partners and mentor groups using the lab00 student responses, publish on the course website using a template similar to [https://ucsb-cs16-w18.github.io/info/mentor_groups/](https://ucsb-cs16-w18.github.io/info/mentor_groups/)
+
+2. TA to add all the staff to our class org on github
+3. Finalize times for exam grading (midterm 1, 2 and final exam)
+4. Reader to print homeworks and bring them to the first section on Tuesdays, collect scan and upload homeworks to gradescope on a weekly basis.
+
+* TO DO's related to content 
+
+1. Need a TA to setup labs 2 and 3, 5, on gradescope, tutor to update the write for these labs
+2. Lab04 needs to be reworked to include the implementation of all of the BST operations - successor, predecessor, delete, and also be made generic with templates. Need to set up the tests on gradescope
+3. Pa03 should be updated to include more guidance and a checkpoint
+4. TA to create new lab 06 on priority queues (together with Diba)
+
+
+
+
+
 # Week 4 (CS24)
 
 Tasks for this week are due 02/14 (wed) midnight. For each of your mentees, fill in their umail in [the feedback status Google sheet](https://docs.google.com/spreadsheets/d/1l-I6d2npbjtzkmI9l5imzuk0osymD5XqC-WJmk8DCA4/edit?usp=sharing) and mark X in column N when your feedback is ready 
