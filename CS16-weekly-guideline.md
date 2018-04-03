@@ -1,6 +1,6 @@
 # Week 1 : Review TA and tutor duties, work assignments 
 
-[Link to course resources on Google Drive](https://drive.google.com/drive/folders/1n3P_to6T-Yt63SqLi2Mn-t9geU1fUpCF?usp=sharing)
+[Link to course resources on Google Drive](https://drive.google.com/drive/folders/1sJF4v4DeLKAjLP8ujlL4WFXbuOk3WXgK?usp=sharing)
 
 
 ## Releasing labs and programming assignments (due Thursday before each lab or pa)
@@ -10,7 +10,7 @@ One TA is responsible for releasing each of the pa/lab assignments. This means e
 * the assignment is setup on gradescope and there is a corresponding repo on github (refer to lab00 and lab01)
 * the assignment is marked as true on the course website.
 * a sample solution is available on github (refer to lab00)
-* Create an excel sheet that the others can use to enter feedback on student code and give points on style etc [in this folder](https://drive.google.com/drive/folders/1gV7Hjcf7aWFDTX6oYWRdBXrIKSyR-Pj1?usp=sharing)
+* Create an excel sheet that the others can use to enter feedback on student code and give points on style etc [in this folder](https://drive.google.com/drive/folders/11hbiFuinTAicfL5FMdtWQq5e0lk6Lx8H?usp=sharing)
 
 Lab release assignments:
 
@@ -22,9 +22,6 @@ Lab release assignments:
 - lab7:
 - lab8:
 
-- pa01
-- pa02
-- pa03 (checkpoint and actual assignment)
 
 ## Preparing for the labs: (due Monday before each lab or pa)
 Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make a submission on gradescope to indicate that you have finished preparing. You may use your own past solution. Report any errors on the labs to the TA in charge for that lab
@@ -32,11 +29,10 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 ## In labs (lead TA/tutor)
 * Briefly go over what the lab is about and provide any useful pointers based on your experience with completing the labs. 
 * Remind students of the open lab times available that week where they can come to get help. We need to do this until there is a steady flow in the open labs. 
-* Distribute the homeworks and collect them at the end of the lab
 * Take attendance for that lab. 
 * Work with the tutors to ensure that the lab is running smoothly. 
 * Make announcements about common problems students are facing and periodically
-* The 6pm lead TA (Zhiyu) should hand over all the homeworks to our grader Yifu (yifu@umail.ucsb.edu)
+
 
 ## In labs (everyone)
 
@@ -46,9 +42,7 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 * Make contact with the students early on and learn their names
 
 
-## TA grading responsibilities
-
-* HWs - all TAs are expected to help with HW grading. Firt four homeworks - Zhiyu, next four homeworks Jin Jin. TA in charge should create the rubric in gradescope (mainly need to copy these over from last quarter) BEFORE the homework is due. Grading should be done in a week and uploaded to gauchospace by the TA in charge of that homework
+## Grading responsibilities
 
 * Exams - all TAs and paid tutors must be available to help with exam grading (midterms and final exams). You may not take off early in the finals week. 
 
@@ -79,10 +73,8 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 
 ## TO DO's related to content 
 
-1. TA to setup labs 2 and 3, 5, on gradescope, tutor to update the write for these labs: 
-2. Lab04 needs to be reworked to include the implementation of all of the BST operations - successor, predecessor, delete, and also be made generic with templates. Need to set up the tests on gradescope
-3. Pa03 should be updated to include more guidance and a checkpoint
-4. TA to create new lab 06 on priority queues (together with Diba)
+1. TA to rework labs, set up on gradescope, tutor to update the write for these labs: 
+
 
 ## Midterm 1 review session: 
 * Date: 
