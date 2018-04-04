@@ -14,13 +14,13 @@ One TA is responsible for releasing each of the pa/lab assignments. This means e
 
 Lab release assignments:
 
-- lab2:
-- lab3:
-- lab4:
-- lab5:
-- lab6:
-- lab7:
-- lab8:
+- lab2: Sierra
+- lab3: Yanju
+- lab4: Harmeet
+- lab5: Sierra
+- lab6: Yanju
+- lab7: Harmeet
+- lab8: Sierra
 
 
 ## Preparing for the labs: (due Monday before each lab or pa)
@@ -63,7 +63,7 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 
 ## TO DO's related to logistic
 
-1. TA to create a list of pair programming partners and mentor groups using the lab00 student responses, publish on the course website using a template similar to [https://ucsb-cs16-w18.github.io/info/mentor_groups/](https://ucsb-cs16-w18.github.io/info/mentor_groups/)
+1. TA to create a list of pair programming partners and mentor groups using the lab00 student responses, publish on the course website using a template similar to [https://ucsb-cs16-w18.github.io/info/mentor_groups/](https://ucsb-cs16-w18.github.io/info/mentor_groups/): Sierra
 
 2. TA to add all the staff to our class org on github
 3. Finalize times for exam grading (midterm 1, 2 and final exam)
