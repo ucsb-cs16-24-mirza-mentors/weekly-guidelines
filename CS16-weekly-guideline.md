@@ -1,3 +1,32 @@
+# Week 2: 
+## Thank you!
+* Sierra for pairing students
+* Yanju for finding broken links
+
+Everyone - please show up for the 190J plenary sessions - we need your energy and there will be fun educative games!
+
+
+## Logistics
+* Resolve any issues related to pair partners and getting added to tools for the course, github signup, gradescope (lead TA for each section): Mentor group, pair partner source file shared on slack, students should be added to github via our signup tool and not invited directly.
+* Open labs are in session:[https://ucsb-cs16-s18-mirza.github.io/info/cs16_open_lab_hours/](https://ucsb-cs16-s18-mirza.github.io/info/cs16_open_lab_hours/)
+Planning keys. 
+
+## Upcoming assignments
+* pa01 (Zhiyu) - ready? Tests, solutions, starter code. What are the goals? What are some things to look out for
+* lab03 (JinJin) - suggestions for updates from last quarter, gradescope setup (due Thursday)
+* homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
+* Update h03  (correct confusing parts from last quarter) - Jack (due Thursday)
+* Recommended changes for lab04 (Jack) (due Thursday)
+* For help with gradescope - see template assignments on github. Diba will go over this briefly towards the end of the meeting. 
+
+## Goals for mentor groups
+* Reach out to your mentor groups with a welcome message:
+[https://ucsb-cs16-s18-mirza.github.io/info/mentor_groups/](https://ucsb-cs16-s18-mirza.github.io/info/mentor_groups/)
+* Look up the reported confidence of your mentees (Google sheet shared on slack). 
+* This week focus on inpput/output to programs, command line arguments, loops and nested loops. Ask students to commit on github (they only know about how to use the web interface). don't introduce command line yet.
+
+* Other suggestions?
+
 # Week 1 : Review TA and tutor duties, work assignments 
 
 [Link to course resources on Google Drive](https://drive.google.com/drive/folders/1sJF4v4DeLKAjLP8ujlL4WFXbuOk3WXgK?usp=sharing)
