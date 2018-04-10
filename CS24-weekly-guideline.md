@@ -1,3 +1,22 @@
+# Week 2: 
+
+## Logistics
+* Resolve any issues related to pair partners and getting added to tools for the course, github signup, gradescope
+* open labs are in session. Planning keys. Students should be added to github via our signup tool and not invited directly.
+* Reach out to your mentor groups with a welcome message
+
+## Upcoming assignments
+* pa01 (Zhiyu) - ready? Tests, solutions, starter code. What are the goals? What are some things to look out for
+* lab03 (JinJin) - suggestions for updates from last quarter, gardescope setup
+* homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
+* Update h03  (correct confusing aspects from last quarter) - Jack
+
+
+## Goals for mentor groups
+* 
+
+
+
 # Week 1 : Review TA and tutor duties, work assignments 
 
 [Link to course resources on Google Drive](https://drive.google.com/drive/folders/1n3P_to6T-Yt63SqLi2Mn-t9geU1fUpCF?usp=sharing)
@@ -60,7 +79,7 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 * You must track the progress of your mentees on github on a weekly basis and provide informal feedback in labs
 * Provide written feedback on student work (via the feedback excel sheets) almost every other Friday. For programming assignments where students are expected to desigb their own classes (pa02, pa03) and some of the labs, review their design before they implement it.
 * Deadlines for written feedback
- - Fri 04/13 5pm - lab 01
+ - Fri 04/13 5pm - Setup for lab feedback
  - Fri 04/27 5pm - pa02, lab03
  - Fri 05/04 5pm - feedback on progress on pa02 
  - Fri 05/18 5pm - feedback and style points on pa02
