@@ -14,7 +14,7 @@ Everyone - please show up for the 190J plenary sessions - we need your energy an
 Planning keys. Students should be added to github via our signup tool and not invited directly.
 * Reach out to your mentor groups with a welcome message:
 [https://ucsb-cs24-s18.github.io/info/mentor_groups/](https://ucsb-cs24-s18.github.io/info/mentor_groups/)
-* Update mentor profiles - Tutor volunteer?:
+* Update mentor profiles - Tutor volunteer?: [https://github.com/ucsb-cs24-s18/ucsb-cs24-s18.github.io/blob/master/_info/staff.md](https://github.com/ucsb-cs24-s18/ucsb-cs24-s18.github.io/blob/master/_info/staff.md)
  * [Photos](https://drive.google.com/drive/folders/1oFCQWcv-93LS2J0i-jSy6_HQIIw3JexC?usp=sharing)
  * [Bios](https://drive.google.com/drive/folders/19SZY4mE0mfIrO9Me57iF8mwsaAKlALIi?usp=sharing)
  * [Website page to update](https://github.com/ucsb-cs16-s18-mirza/ucsb-cs16-s18-mirza.github.io/blob/master/_info/staff.md)
