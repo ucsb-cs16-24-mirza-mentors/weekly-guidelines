@@ -7,7 +7,7 @@
 
 ## Upcoming assignments
 * pa01 (Zhiyu) - ready? Tests, solutions, starter code. What are the goals? What are some things to look out for
-* lab03 (JinJin) - suggestions for updates from last quarter, gardescope setup
+* lab03 (JinJin) - suggestions for updates from last quarter, gradescope setup
 * homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
 * Update h03  (correct confusing aspects from last quarter) - Jack
 
