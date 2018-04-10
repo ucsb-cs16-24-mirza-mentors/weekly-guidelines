@@ -21,6 +21,7 @@ Planning keys. Students should be added to github via our signup tool and not in
 * homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
 * Update h03  (correct confusing parts from last quarter) - Jack (due Thursday)
 * Recommended changes for lab04 (Jack) (due Thursday)
+* For help with gradescope - see template assignments on github. Diba will go over this briefly towards the end of the meeting. 
 
 ## Goals for mentor groups
 * Look up the reported confidence of your mentees (Google sheet shared on slack). 
