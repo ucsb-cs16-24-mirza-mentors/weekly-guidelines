@@ -2,6 +2,7 @@
 ## Thank you!
 * Sierra for pairing students
 * Yanju for finding broken links
+* Madhu for pointing out issues with the mentor groups
 
 Everyone - please show up for the 190J plenary sessions - we need your energy and there will be fun educative games!
 
@@ -10,20 +11,23 @@ Everyone - please show up for the 190J plenary sessions - we need your energy an
 * Resolve any issues related to pair partners and getting added to tools for the course, github signup, gradescope (lead TA for each section): Mentor group, pair partner source file shared on slack, students should be added to github via our signup tool and not invited directly.
 * Open labs are in session:[https://ucsb-cs16-s18-mirza.github.io/info/cs16_open_lab_hours/](https://ucsb-cs16-s18-mirza.github.io/info/cs16_open_lab_hours/)
 Planning keys. 
+* Update mentor profiles - Harmeet:
+ * [Photos](https://drive.google.com/drive/folders/1oFCQWcv-93LS2J0i-jSy6_HQIIw3JexC?usp=sharing)
+ * [Bios](https://drive.google.com/drive/folders/19SZY4mE0mfIrO9Me57iF8mwsaAKlALIi?usp=sharing)
+ * [Website page to update](https://github.com/ucsb-cs16-s18-mirza/ucsb-cs16-s18-mirza.github.io/blob/master/_info/staff.md)
 
 ## Upcoming assignments
-* pa01 (Zhiyu) - ready? Tests, solutions, starter code. What are the goals? What are some things to look out for
-* lab03 (JinJin) - suggestions for updates from last quarter, gradescope setup (due Thursday)
-* homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
-* Update h03  (correct confusing parts from last quarter) - Jack (due Thursday)
-* Recommended changes for lab04 (Jack) (due Thursday)
+
+* lab02 (Sierra) - suggestions for updates from last quarter, gradescope setup (due Thursday)
+* Quizzes - Yanju and Harmeet
+* Recommended changes for lab04, lab05,(Sierra) (04/23)
 * For help with gradescope - see template assignments on github. Diba will go over this briefly towards the end of the meeting. 
 
 ## Goals for mentor groups
 * Reach out to your mentor groups with a welcome message:
 [https://ucsb-cs16-s18-mirza.github.io/info/mentor_groups/](https://ucsb-cs16-s18-mirza.github.io/info/mentor_groups/)
 * Look up the reported confidence of your mentees (Google sheet shared on slack). 
-* This week focus on inpput/output to programs, command line arguments, loops and nested loops. Ask students to commit on github (they only know about how to use the web interface). don't introduce command line yet.
+* This week focus on input/output to programs, command line arguments, loops and nested loops. Ask students to commit on github (they only know about how to use the web interface). don't introduce command line yet.
 
 * Other suggestions?
 
@@ -51,6 +55,7 @@ Lab release assignments:
 - lab7: Harmeet
 - lab8: Sierra
 
+- Quizzes Harmeet
 
 ## Preparing for the labs: (due Monday before each lab or pa)
 Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make a submission on gradescope to indicate that you have finished preparing. You may use your own past solution. Report any errors on the labs to the TA in charge for that lab
