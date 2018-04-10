@@ -1,21 +1,36 @@
 # Week 2: 
+## Thank you!
+* Zhiyu for setting up la02
+* Keith for fixing the submission guidelines
+* Andrew, Jack, Keith, JinJin for test driving lab02
+* JinJin for creating pair partners (I re-did it for a few reasons, but thanks!)
+
+Everyone - please show up for the 190J plenary sessions - we need your energy and there will be fun educative games!
+
 
 ## Logistics
-* Resolve any issues related to pair partners and getting added to tools for the course, github signup, gradescope
-* open labs are in session. Planning keys. Students should be added to github via our signup tool and not invited directly.
-* Reach out to your mentor groups with a welcome message
+* Resolve any issues related to pair partners and getting added to tools for the course, github signup, gradescope (lead TA for each section): [Mentor group, pair partner source file](https://docs.google.com/spreadsheets/d/1spKFctm0rupYa4ERyz-SDiiojCinGsyvRkopnurJ8pM/edit?usp=sharing)
+* Open labs are in session:[https://ucsb-cs24-s18.github.io/info/cs24_open_lab_hours/](https://ucsb-cs24-s18.github.io/info/cs24_open_lab_hours/)
+Planning keys. Students should be added to github via our signup tool and not invited directly.
+* Reach out to your mentor groups with a welcome message:
+[https://ucsb-cs24-s18.github.io/info/mentor_groups/](https://ucsb-cs24-s18.github.io/info/mentor_groups/)
 
 ## Upcoming assignments
 * pa01 (Zhiyu) - ready? Tests, solutions, starter code. What are the goals? What are some things to look out for
-* lab03 (JinJin) - suggestions for updates from last quarter, gradescope setup
+* lab03 (JinJin) - suggestions for updates from last quarter, gradescope setup (due Thursday)
 * homework grading h01 - Yufi, JinJin - we need the final exam graded for correctness but points should be awarded based on attempt. Jinjin - release the grades, regrade requests accepted fro three days after release. Communicate that to students and then upload all the grades to gauchospace after regrades are closed.
-* Update h03  (correct confusing aspects from last quarter) - Jack
-
+* Update h03  (correct confusing parts from last quarter) - Jack (due Thursday)
+* Recommended changes for lab04 (Jack) (due Thursday)
 
 ## Goals for mentor groups
-* 
+* Look up the reported confidence of your mentees (Google sheet shared on slack). 
+* Talk to your mentees about topics they found difficult in h01 (CS16 final exam). Set up a time during open labs to review these topics. Specifically refer students to the CS16 labs on recursion and linked lists if they have not done those labs already:
+     * [https://ucsb-cs16-w18.github.io/lab/lab06/](https://ucsb-cs16-w18.github.io/lab/lab06/)
+     * [https://ucsb-cs16-w18.github.io/lab/lab07/](https://ucsb-cs16-w18.github.io/lab/lab07/)
 
+* For pa01: we commend that students design their own statistician class based on the problem description in the book. Discuss their design choices compared to the class definition in the starter code with mentor. Should be done in person. Then implement the class based on the provided skeleton code.
 
+* Other suggestions?
 
 # Week 1 : Review TA and tutor duties, work assignments 
 
