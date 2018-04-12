@@ -100,7 +100,7 @@ Everyone MUST read and do the labs for the upcoming week prior to Tuesday. Make 
 * You must track the progress of your mentees on github on a weekly basis and provide informal feedback in labs
 * Provide written feedback on student work (via the feedback excel sheets) almost every other Friday. For programming assignments where students are expected to desigb their own classes (pa02, pa03) and some of the labs, review their design before they implement it.
 * Deadlines for written feedback
- - Fri 04/13 5pm - Setup for lab feedback
+
  - Fri 04/27 5pm - pa02, lab03
  - Fri 05/04 5pm - feedback on progress on pa02 
  - Fri 05/18 5pm - feedback and style points on pa02
