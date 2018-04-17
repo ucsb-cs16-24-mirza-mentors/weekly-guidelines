@@ -1,3 +1,9 @@
+# Week 3
+
+* Folder for giving feedback on pas and labs: [http://bit.ly/CS24-lab-pa-feedback](http://bit.ly/CS24-lab-pa-feedback)
+
+
+
 # Week 2: 
 ## Thank you!
 * Zhiyu for setting up la02
