@@ -1,7 +1,9 @@
 # Week 3
 
 * Folder for giving feedback on pas and labs: [http://bit.ly/CS24-lab-pa-feedback](http://bit.ly/CS24-lab-pa-feedback)
-
+* pa02 -JinJin, Jack
+* lab04 - Jack 
+* Jack and JinJin - Meet next Tuesday to discuss
 
 
 # Week 2: 
