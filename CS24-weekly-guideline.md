@@ -1,3 +1,29 @@
+# Week 9
+
+## Logistics
+* Final exam: Wed 8am -11am - Need proctors
+* Final exam grading: Thurs 06/14 10am - 3pm in trailer 698
+
+## Grading
+
+* pa02 checkpoint, done?
+* pa03 checkpoint on gradescope. Due date this Thursday (05/31)
+* lab05 manual grading - post fix expression rubric: attempt 5/10, algorithm mostly correct 8/10, completely correct 10/10
+
+
+## Instructions for today's lab
+
+* Mentor evaluations
+* Work on pa03 (heaps are yet to be covered in class)
+
+## Lab06
+* Go over the lab and be prepared to help students next week
+
+
+
+
+
+
 # Week 3
 
 * Folder for giving feedback on pas and labs: [http://bit.ly/CS24-lab-pa-feedback](http://bit.ly/CS24-lab-pa-feedback)
