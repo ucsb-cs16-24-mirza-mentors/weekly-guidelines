@@ -1,3 +1,25 @@
+# Week 9
+
+## Logistics
+* Final exam: Mon (June 11) 4pm -7pm - Need proctors
+* Final exam grading: Thurs 06/14 10am - 3pm in trailer 698
+
+## Feedback to mentor groups
+
+* Go over the midterm 1 and midterm 2 of your mentees. Identify the ones who did particularly poorly. Email them to setup a time to review for the final exam. cc me.
+
+## Upload all grades to gauchospace
+
+## Instructions for today's lab
+
+* Mentor evaluations
+* Work on lab07 (recursion yet to be covered in class)
+
+## Lab08
+* Go over the lab and be prepared to help students next week
+
+
+
 # Week 2: 
 ## Thank you!
 * Sierra for pairing students
