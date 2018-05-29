@@ -2,7 +2,7 @@
 
 ## Logistics
 * Final exam: Mon (June 11) 4pm -7pm - Need proctors
-* Final exam grading: Thurs 06/14 10am - 3pm in trailer 698
+* Final exam grading: Tuesday 06/12 11am - 3pm in trailer 698
 
 ## Feedback to mentor groups
 
