@@ -1,7 +1,7 @@
 # Week 9
 
 ## Logistics
-* Final exam: Wed 8am -11am - Need proctors
+* Final exam: Wed 8am -11am - Proctors :)?
 * Final exam grading: Thurs 06/14 10am - 3pm in trailer 698
 
 ## Grading
