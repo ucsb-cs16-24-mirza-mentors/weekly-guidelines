@@ -11,6 +11,8 @@
 * lab05 manual grading - post fix expression rubric: attempt 5/10, algorithm mostly correct 8/10, completely correct 10/10
 
 
+## Upload all grades to gauchospace
+
 ## Instructions for today's lab
 
 * Mentor evaluations
